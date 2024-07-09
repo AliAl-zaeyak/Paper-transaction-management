@@ -1,0 +1,15 @@
+table{
+    margin-top: 50px;
+    border: black solid 3px;
+    width: 100%;
+}
+th{
+    background-color: #0082e6;
+    text-decoration: solid;
+    border: 3px solid black;
+}
+td{
+    width: 25%;
+    text-align: center;
+    border: 2px solid black;
+}

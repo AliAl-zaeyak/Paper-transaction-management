@@ -1,0 +1,21 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+td{
+    padding-right: 170px;
+}
+hr{
+    margin-left: 170px;
+    margin-right: 170px;
+}.A{
+    margin-right: 200px;
+}
+.B{
+    margin-right: 1000px;
+}
+select{
+    width: 175px;
+    height: 30px;
+    font-size: 20px;
+}
